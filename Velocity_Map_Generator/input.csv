@@ -1,0 +1,11 @@
+Primary diameter (m),0.006
+Secondary diameter (m),0.005
+Inlet length (m),0.01
+Oulet length (m),0.01
+Inner curvature raduis (m),0.0135
+Outer curvature raduis (m),0.0005
+Angle (degrees),30
+Viscosity (Pa.s),0.00002
+Inlet pressure (Pa),2
+Outlet pressure (Pa),0
+Precision (number of grid squares in width),50
